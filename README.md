@@ -1,1 +1,3 @@
 # odin-recipes
+## Purpose of this Project
+This project is something I did as part of the Odin Project. The purpose of this project was to practice using HTML and Git to create a very simple site with multiple pages that link to each other. The website contains an index that links to other pages describing recipes I found online. The recipe pages have images, list, and also links to the original recipes for more information.
